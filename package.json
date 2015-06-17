@@ -1,0 +1,23 @@
+{
+  "name": "get-stream-data",
+  "version": "0.1.0",
+  "description": "getStreamData(stream).then(function(buffer) {})",
+  "main": "getStreamData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenivana/getStreamData.git"
+  },
+  "keywords": [
+    "stream",
+    "promise"
+  ],
+  "author": "Jiang Fengming <fenix@noindoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenivana/getStreamData/issues"
+  },
+  "homepage": "https://github.com/fenivana/getStreamData#readme"
+}
